@@ -1,33 +1,34 @@
 # Ball Runner Game 🎮
 
-Un joc 3D captivant în care controlezi o bilă ce se rostogolește pe un traseu plin de obstacole și monede! Scopul tău este să aduni cât mai multe monede și să eviți obstacolele pe măsură ce explorezi un peisaj vibrant.
+An addictive 3D game where you control a ball rolling along a path full of obstacles and coins! Your goal is to collect as many coins as possible and avoid obstacles as you explore a vibrant landscape.
 
 ---
 
-## 📌 Caracteristici principale
-- **Mediu 3D detaliat:** Iarbă verde, munți, copaci și poduri suspendate.
-- **Mecanică de joc:** Control precis al bilei pentru a colecta monede și a evita obstacolele.
-- **Obstacole dinamice:** Include capcane mobile și poduri înguste.
-- **Recompense:** Sistem de punctaj bazat pe numărul de monede colectate.
-- **Compatibilitate multiplatformă:** Rulează pe PC și dispozitive mobile Android.
+## 📌 Main features
+- **Detailed 3D Environment:** Green grass, mountains, trees and suspension bridges.
+- **Game Mechanics:** Precise ball control to collect coins and avoid obstacles.
+- **Dynamic Obstacles:** Includes moving traps and narrow bridges.
+- **Rewards:** Scoring system based on the number of coins collected.
+- **Cross Platform Compatibility:** Runs on PC and Android mobile devices.
+
+---
+## Details about how the game model looks can be found in "Image Ball_game.webp".
+
+
+## 🕹️ How to play
+### **PC Controls**
+- **Left/Right Arrow:** Controls the direction of the ball.
+- **Space:** Jump over obstacles.
 
 ---
 
+## 🚀 How to run the project
+### **System Requirements**
+- **Software:** Unity Editor (version 2020.3 or later).
+- **Platform:** Windows
+- **Hardware:** Dedicated GPU recommended for smooth experience.
 
-## 🕹️ Cum să joci
-### **Controale pentru PC**
-- **Săgeată Stânga/Dreapta:** Controlează direcția bilei.
-- **Spațiu:** Sari peste obstacole.
-
----
-
-## 🚀 Cum să rulezi proiectul
-### **Cerințe de sistem**
-- **Software:** Unity Editor (versiune 2020.3 sau mai recentă).
-- **Platformă:** Windows
-- **Hardware:** GPU dedicat recomandat pentru o experiență fluidă.
-
-### **Pași pentru rulare**
-1. Clonează acest repository:
+### **Steps to Run**
+1. Clone this repository:
    ```bash
    git clone https://github.com/username/ball-runner-game.git
